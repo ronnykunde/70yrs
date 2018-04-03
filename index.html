@@ -1,39 +1,29 @@
 ---
-bg: "DSC_3186-copy.jpg"
+bg: "bg.svg"
 layout: default
-crawlertitle: "Roter Salon"
-title: "Roter Salon"
-summary: "Roter Salon im Conne Island"
+crawlertitle: "70 JAHRE ISRAEL"
+title: "70 JAHRE ISRAEL"
+summary: "70 JAHRE ISRAEL"
 ---
+<article>
+  <h1>Vorstellungstext</h1>
+  <br>
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.
+  <br><br>
+  <a href="{{ site.baseurl }}{% post_url 2018-05-08-vorstellungstext %}">[Mehr]</a>
+</article>
 
-<h1>Der Rote Salon</h1>
 
-Live Test
-
-Der Rote Salon ist eine Veranstaltungsreihe im Conne Island, die sein Programm in regelmäßiger Folge um Veranstaltungen wie szenische Lesungen, Gesprächsabende, politisches Kabarett, linkes Theater, Politshows und andere mehr erweitern soll. Die Reihe möchte dem Conne Island damit ein Angebot zusätzlich zu klassischen Politveranstaltungen und seiner traditionell subkulturellen Ausrichtung erschließen. Die dafür gewählte Form unterscheidet sich bewusst von gewohnten Formaten: Die Veranstaltungen in Salonatmosphäre beabsichtigen, die Beschäftigung mit tagesaktuellen wie historischen Themen mit einem hohen Maß an Informations- und Unterhaltungswert zu verknüpfen.
-<br><br>
-Kontakt zum Salon:
-rotersalon@conne-island.de
-	
-	{% for post in site.categories.Veranstaltungen limit: 1 %}
-		{% if post.date  %}
-		{% endif %}
-	{% endfor %}
-
-    <div class="post-links">
-      {% for post in site.categories.Veranstaltungen limit: 1 %}
-        <a class="link-to-post" href="{{ post.url | relative_url}}">
-          <span class="link-to-post__next">Vergangene Veranstaltung</span>
-          <span class="link-to-post__title">{{ post.date | date: "%d.%m.%Y" }} - {{ post.title }}</span>
-        </a>
-      {% endfor %}
-
-      {% for post in site.categories.Texte limit: 1 %}
-        <a class="link-to-post" href="{{ post.url | relative_url}}">
-          <span class="link-to-post__prev">Neuer Text</span>
-          <span class="link-to-post__title">{{ post.title }}</span>
-        </a>
-      {% endfor %}
-    </div>
+{% for post in site.categories.Veranstaltungen %}
+  <article>
+    <a href="{{ post.url | relative_url }}">
+      <span class="post-day">{{ post.day}}</span>
+      <span class="post-month">{{ post.month}}</span>
+      <h2>{{ post.title }}</h2>
+      <h4>{{ post.subtitle }}</h4>
+      <span class="post-speaker">{{ post.speaker}}</span>
+    </a>
+  </article>
+{% endfor %}
 
 

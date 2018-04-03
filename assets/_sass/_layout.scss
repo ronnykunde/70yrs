@@ -1,8 +1,32 @@
+.post-day,
+.post-month {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: bold;
+  color: #0b637f;
+  text-transform: uppercase;
+  line-height: 100%;
+}
+
+.post-day {
+  font-size: 3em;
+}
+
+.post-month {
+  font-size: 1.5em;
+}
+
+.post-speaker {
+  color: #b3b3b3;
+}
+
+
+
 /*
 * Links
 * ========================================================================== */
 a {
   color: #333;
+  text-decoration: none !important;
   &:hover,
   &:focus,
   &:active { text-decoration: none; }
@@ -171,7 +195,7 @@ a {
     position: relative;
     margin-right: 5px;
     text-decoration: none;
-    &:hover { text-decoration: underline; }
+    &:hover { text-decoration: none; }
     &:not(:last-child):after {
       content: " , ";
       position: absolute;
@@ -204,31 +228,6 @@ main {
     left: 50%;
   }
 }
-
-.veranstaltungen-page {
-  position: relative;
-  height:300px;
-
-  img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    float:left;
-    margin: 0;
-    padding: 0;
-    margin-right: 30px;
-  }
-
-  h1,h2,h3,h4, a {
-    text-transform: uppercase;
-    text-decoration: none !important;
-    margin:0;
-
-  }
-
-}
-
-
 
 article {
   padding: 2em 1em;
@@ -300,7 +299,7 @@ article {
 }
 
 .year a:hover {
-  text-decoration: underline
+  text-decoration: none
 }
 
 .date {
