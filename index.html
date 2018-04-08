@@ -14,7 +14,7 @@ summary: "70 JAHRE ISRAEL"
 </article>
 
 
-{% for post in site.categories.Veranstaltungen %}
+{% for post in site.categories.Veranstaltungen reversed %}
   <article>
     <a href="{{ post.url | relative_url }}">
       <span class="post-day">{{ post.day}}</span>

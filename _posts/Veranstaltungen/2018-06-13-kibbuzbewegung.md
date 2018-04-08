@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Kritische Theorie des Antizionismus."
-subtitle: "Zur Persistenz des Israelhasses"
-crawlertitle: "Kritische Theorie des Antizionismus."
-summary: "Kritische Theorie des Antizionismus."
-speaker: "Stephan Grigat"
+title:  "Kibbuzbewegung & Hashomer"
+subtitle: ""
+crawlertitle: "Kibbuzbewegung & Hashomer"
+summary: "Kibbuzbewegung & Hashomer"
+speaker: "Ildikó Jahn"
 time: "18:00"
-day: "08."
-month: "Mai"
-locationname: "Conne Island"
-locationadress: "Koburger Str. 3, Leipzig"
+day: "13."
+month: "Juni"
+locationname: "Institut für Zukunft"
+locationadress: "An den Tierkliniken 38-40, Leipzig"
 eventtype: "Vortrag"
 categories: Veranstaltungen
 tags: 'veranstaltungen'

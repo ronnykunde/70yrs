@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Kritische Theorie des Antizionismus."
-subtitle: "Zur Persistenz des Israelhasses"
-crawlertitle: "Kritische Theorie des Antizionismus."
-summary: "Kritische Theorie des Antizionismus."
-speaker: "Stephan Grigat"
+title:  "Israelische Demokratie und Nahostkonflikt"
+subtitle: ""
+crawlertitle: "Israelische Demokratie und Nahostkonflikt"
+summary: "Israelische Demokratie und Nahostkonflikt"
+speaker: "Mideast Freedom Forum Berlin"
 time: "18:00"
-day: "08."
+day: "18."
 month: "Mai"
-locationname: "Conne Island"
-locationadress: "Koburger Str. 3, Leipzig"
-eventtype: "Vortrag"
+locationname: "Uni Leipzig"
+locationadress: "HSG Hörsaal 2"
+eventtype: "Workshop"
 categories: Veranstaltungen
 tags: 'veranstaltungen'
 ---

@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Umgang der israelischen Wirtschaft mit Boykottbewegungen (BDS)"
-subtitle: "Untertitel Blindtext"
-crawlertitle: " Umgang der israelischen Wirtschaft mit Boykottbewegungen (BDS)"
-summary: " Umgang der israelischen Wirtschaft mit Boykottbewegungen (BDS)"
-speaker: "Esra Sadan"
+title:  "Vergessene Flüchtlinge."
+subtitle: "Die Vertreibung der Juden aus den arabischen Staaten nach 1948"
+crawlertitle: "Vergessene Flüchtlinge."
+summary: "Vergessene Flüchtlinge."
+speaker: "Ralf Balke"
 time: "18:00"
-day: "14."
-month: "Mai"
-locationname: "Uni Leipzig"
-locationadress: "HSG Hörsaal 2"
+day: "08."
+month: "Juni"
+locationname: "Conne Island"
+locationadress: "Koburger Str. 3, Leipzig"
 eventtype: "Vortrag"
 categories: Veranstaltungen
 tags: 'veranstaltungen'

@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Kritische Theorie des Antizionismus."
-subtitle: "Zur Persistenz des Israelhasses"
-crawlertitle: "Kritische Theorie des Antizionismus."
-summary: "Kritische Theorie des Antizionismus."
-speaker: "Stephan Grigat"
+title:  "Der Antisemitismus und das Konzept der Intersektionalität "
+subtitle: ""
+crawlertitle: "Der Antisemitismus und das Konzept der Intersektionalität "
+summary: "Der Antisemitismus und das Konzept der Intersektionalität "
+speaker: "Karin Stögner"
 time: "18:00"
-day: "08."
-month: "Mai"
-locationname: "Conne Island"
-locationadress: "Koburger Str. 3, Leipzig"
+day: "07."
+month: "Juni"
+locationname: "Institut für Zukunft"
+locationadress: "An den Tierkliniken 38-40, Leipzig"
 eventtype: "Vortrag"
 categories: Veranstaltungen
 tags: 'veranstaltungen'

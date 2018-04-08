@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Kritische Theorie des Antizionismus."
-subtitle: "Zur Persistenz des Israelhasses"
-crawlertitle: "Kritische Theorie des Antizionismus."
-summary: "Kritische Theorie des Antizionismus."
-speaker: "Stephan Grigat"
+title:  "Zur Kritik des islamischen Antisemitimus und seiner Bagatellisierung"
+subtitle: ""
+crawlertitle: "Zur Kritik des islamischen Antisemitimus und seiner Bagatellisierung"
+summary: "Zur Kritik des islamischen Antisemitimus und seiner Bagatellisierung"
+speaker: "Thomas Maul"
 time: "18:00"
-day: "08."
+day: "28."
 month: "Mai"
-locationname: "Conne Island"
-locationadress: "Koburger Str. 3, Leipzig"
+locationname: "Uni Leipzig"
+locationadress: "HSG Hörsaal 2"
 eventtype: "Vortrag"
 categories: Veranstaltungen
 tags: 'veranstaltungen'

@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Kritische Theorie des Antizionismus."
-subtitle: "Zur Persistenz des Israelhasses"
-crawlertitle: "Kritische Theorie des Antizionismus."
-summary: "Kritische Theorie des Antizionismus."
-speaker: "Stephan Grigat"
+title:  "»Stalin hat uns das Herz gebrochen«"
+subtitle: "Antisemitismus in der DDR und die Verfolgung jüdischer Kommunistinnen und Kommunisten."
+crawlertitle: "»Stalin hat uns das Herz gebrochen«"
+summary: "»Stalin hat uns das Herz gebrochen«"
+speaker: "Naturfreunde Jugend Berlin"
 time: "18:00"
-day: "08."
+day: "24."
 month: "Mai"
-locationname: "Conne Island"
+locationname: "Institut für Zukunft"
 locationadress: "Koburger Str. 3, Leipzig"
 eventtype: "Vortrag"
 categories: Veranstaltungen

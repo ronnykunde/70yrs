@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Kritische Theorie des Antizionismus."
-subtitle: "Zur Persistenz des Israelhasses"
-crawlertitle: "Kritische Theorie des Antizionismus."
-summary: "Kritische Theorie des Antizionismus."
-speaker: "Stephan Grigat"
+title:  "»Vereinte Nationen gegen Israel«."
+subtitle: "Wie die UNO den jüdischen Staat delegitimiert."
+crawlertitle: "»Vereinte Nationen gegen Israel«."
+summary: "»Vereinte Nationen gegen Israel«."
+speaker: "Florian Markl & Alex Feuerherdt"
 time: "18:00"
-day: "08."
-month: "Mai"
+day: "11."
+month: "Juni"
 locationname: "Conne Island"
 locationadress: "Koburger Str. 3, Leipzig"
-eventtype: "Vortrag"
+eventtype: "Buchvorstellung"
 categories: Veranstaltungen
 tags: 'veranstaltungen'
 ---

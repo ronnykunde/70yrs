@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Kritische Theorie des Antizionismus."
-subtitle: "Zur Persistenz des Israelhasses"
-crawlertitle: "Kritische Theorie des Antizionismus."
-summary: "Kritische Theorie des Antizionismus."
-speaker: "Stephan Grigat"
+title:  "Jüdischer Mai '68."
+subtitle: "Linker Aktivismus und Antisemitismus im Nachkriegsfrankreich"
+crawlertitle: "Jüdischer Mai '68."
+summary: "Jüdischer Mai '68."
+speaker: "Sebastian Voigt"
 time: "18:00"
-day: "08."
-month: "Mai"
-locationname: "Conne Island"
-locationadress: "Koburger Str. 3, Leipzig"
+day: "01."
+month: "Juni"
+locationname: "Uni Leipzig"
+locationadress: "HSG Hörsaal 2"
 eventtype: "Vortrag"
 categories: Veranstaltungen
 tags: 'veranstaltungen'
