@@ -5,7 +5,7 @@ subtitle: "Zur Persistenz des Israelhasses"
 crawlertitle: "Kritische Theorie des Antizionismus."
 summary: "Kritische Theorie des Antizionismus."
 speaker: "Stephan Grigat"
-time: "18:00"
+time: "19:00"
 day: "08."
 month: "Mai"
 locationname: "Conne Island"
@@ -15,4 +15,6 @@ categories: Veranstaltungen
 tags: 'veranstaltungen'
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.
+Am Beginn des 21. Jahrhunderts ist die antizionistische Ideologie zu neuem Leben erwacht und weist weit über den Kreis linker Kleingruppen hinaus. In den Attacken auf Israel tritt der Antisemitismus als eine spezifische Form des Judenhasses nach Auschwitz auf, der sich gegen den kollektiven Juden, den jüdischen Staat, richtet. Der Vortrag soll zum einen Grundzüge einer Kritischen Theorie des Zionismus einerseits und des Israelhasses andererseits skizzieren und die Modifikationen in den diversen Ausprägungen des Antizionismus beleuchten. Zum anderen soll verdeutlicht werden, vor welchen Herausforderungen Israel durch die veränderten Realitäten des Nahen Ostens und durch die aktuellen Erscheinungsformen des Antizionismus steht.
+
+Stephan Grigat ist Permanent Fellow am Moses Mendelssohn Zentrum für europäisch-jüdische Studien der Universität Potsdam, Research Fellow am Herzl Institute for the Study of Zionism and History der University of Haifa und Wissenschaftlicher Direktor von STOP THE BOMB in Österreich. Er ist Autor von „Fetisch & Freiheit. Über die Rezeption der Marxschen Fetischkritik, die Emanzipation von Staat und Kapital und die Kritik des Antisemitismus“ (ça ira 2007) und „Die Einsamkeit Israels. Zionismus, die israelische Linke und die iranische Bedrohung“ (Konkret 2014) sowie Herausgeber von „AfD & FPÖ. Antisemitismus, völkischer Nationalismus und Geschlchterbilder“ (Nomos 2017) und „Iran - Israel – Deutschland: Antisemitismus, Außenhandel & Atomprogramm“ (Hentrich & Hentrich 2017).

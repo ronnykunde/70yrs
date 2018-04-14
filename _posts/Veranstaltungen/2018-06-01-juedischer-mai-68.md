@@ -5,14 +5,20 @@ subtitle: "Linker Aktivismus und Antisemitismus im Nachkriegsfrankreich"
 crawlertitle: "Jüdischer Mai '68."
 summary: "Jüdischer Mai '68."
 speaker: "Sebastian Voigt"
-time: "18:00"
+time: "19:00"
 day: "01."
 month: "Juni"
 locationname: "Uni Leipzig"
-locationadress: "HSG Hörsaal 2"
+locationadress: "t.b.a."
 eventtype: "Vortrag"
 categories: Veranstaltungen
 tags: 'veranstaltungen'
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.
+Anlässlich des 50.-jährigen Jubiläums sind die Ereignisse des Jahres 1968 medial wieder präsent. Von rechtskonservativer Seite werden die früheren Aktivisten immer wieder für die heutige Situation verantwortlich gemacht. So sprach der AfD-Parteivorsitzende Jörg Meuthen vom „versifften links-grünen 68er-Deutschland“, das es zu ändern gelte.
+Derartige Angriffe richteten sich häufig direkt gegen ehemalige Protagonisten der 68er-Bewegung. Die konservative Kritik an dem in Deutschland wie in Frankreich aktiven Daniel Cohn-Bendit wies nicht selten antisemitische Untertöne auf. Bereits 50 Jahre zuvor war das Gesicht der französischen Studentenbewegung antisemitisch angefeindet worden.
+Im Vortrag soll am Beispiel des Lebenswegs von Cohn-Bendit eine andere Perspektive auf die 68er-Bewegung geworfen werden, die als „Der jüdische Mai `68“ gefasst werden kann.
+Im Vortrag wird es um die Herkunft vieler Protagonisten gehen, aber auch um die Bedeutung Frankreichs für die gesamteuropäische wie jüdische Geschichte in der ersten Hälfte des 20. Jahrhunderts. Der Blick zurück auf die Elterngeneration führt in die Lebenswelten der als Immigranten und Flüchtlinge aus Deutschland, Polen und dem Habsburgerreich kommenden Juden. Kommunismus, Zionismus und antifaschistisches Engagement bilden die Folie, vor der die Ereignisse des Mai '68 in neuem Licht erscheinen.
+ 
+Sebastian Voigt ist Autor des Buches: „Der jüdische Mai ’68. Pierre Goldman, Daniel Cohn-Bendit und André Glucksmann im Nachkriegsfrankreich, Göttingen.“
+Er ist wissenschaftlicher Mitarbeiter am Institut für Zeitgeschichte, München, Fellow am Institut für Soziale Bewegungen, Bochum, und Lehrbeauftrager an der Ruhr-Universität Bochum.

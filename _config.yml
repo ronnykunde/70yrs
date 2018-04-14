@@ -6,17 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 70yrs
-email: your-email@domain.com
+title: 70 JAHRE ISRAEL
+email: workshop@gegen-antizionismus.de
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/70yrs" # the subpath of your site, e.g. /blog
-lang: "en"
-url: "http://localhost:4000" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+  70 Jahre Israel - Zum weltweiten Antisemitismus und dem Objekt seiner Begierde - Veranstaltungsreihe in Leipzig
+baseurl: "" # the subpath of your site, e.g. /blog
+lang: "de"
+url: "http://gegen-antizionismus.de" # the base hostname & protocol for your site
+twitter_username:
+github_username:
 disqus_username:
 
 # Build settings

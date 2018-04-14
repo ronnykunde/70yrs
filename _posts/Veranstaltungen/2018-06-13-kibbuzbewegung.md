@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Kibbuzbewegung & Hashomer"
+title:  "Die Kibbuzbewegung in Israel"
 subtitle: ""
-crawlertitle: "Kibbuzbewegung & Hashomer"
-summary: "Kibbuzbewegung & Hashomer"
+crawlertitle: "Die Kibbuzbewegung in Israel"
+summary: "Die Kibbuzbewegung in Israel"
 speaker: "Ildikó Jahn"
-time: "18:00"
+time: "19:00"
 day: "13."
 month: "Juni"
 locationname: "Institut für Zukunft"
@@ -15,4 +15,6 @@ categories: Veranstaltungen
 tags: 'veranstaltungen'
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.
+Die Hashomer Hatzair wurde 1913 als Pfadfinderbewegung gegründet, schloss sich jedoch schon bald der Zionistischen Jugendbewegung Zeire Zion an und arbeitet seit einigen Jahren mit der Habonim Dror, der Jugendorganisation der Kibbuzbewegung, zusammen. Die Errichtung von Kibbuzim stand jedoch seit jeher im Mittelpunkt der Organisation. Der Vortrag von Ildikó Jahn wird sich mit der Bedeutung von letzterem für die Alija und damit der Gründung Israels im allgemeinen, sowie mit der Geschichte der Hashomer im speziellen beschäftigen und vor allem auf deren sozialistische Wurzeln und ihren Widerstand gegen den Nationalsozialismus eingehen. Außerdem wird die Verbindung von sozialistischer und zionistischer Arbeit, insbesondere mit Kindern und Jugendlichen, thematisiert werden und dabei der jährlich stattfindende Jugendaustausch zwischen den Falken Sachsen und der Hashomer Hatzair behandelt. 
+
+Ildikó Jahn ist seit 2009 im Landesverband und auf Bundesebene der Falken aktiv.

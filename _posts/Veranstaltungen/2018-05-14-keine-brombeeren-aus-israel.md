@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Keine Brombeeren aus Israel."
+title:  "Die Boykottbewegung gegen Israel."
 subtitle: "Die Boykottbewegung gegen Israel."
 crawlertitle: "Keine Brombeeren aus Israel."
 summary: "Keine Brombeeren aus Israel."
 speaker: "Esra Sadan"
-time: "18:00"
+time: "19:00"
 day: "14."
 month: "Mai"
 locationname: "Uni Leipzig"
-locationadress: "HSG Hörsaal 2"
+locationadress: "t.b.a."
 eventtype: "Vortrag"
 categories: Veranstaltungen
 tags: 'veranstaltungen'

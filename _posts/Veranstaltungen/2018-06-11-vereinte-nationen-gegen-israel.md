@@ -5,7 +5,7 @@ subtitle: "Wie die UNO den jüdischen Staat delegitimiert."
 crawlertitle: "»Vereinte Nationen gegen Israel«."
 summary: "»Vereinte Nationen gegen Israel«."
 speaker: "Florian Markl & Alex Feuerherdt"
-time: "18:00"
+time: "19:00"
 day: "11."
 month: "Juni"
 locationname: "Conne Island"
@@ -15,4 +15,10 @@ categories: Veranstaltungen
 tags: 'veranstaltungen'
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc.
+Kein anderes Land steht bei den Vereinten Nationen derart am Pranger wie Israel. Die Unesco und der UN-Menschenrechtsrat beispielsweise haben den jüdischen Staat in ihren Resolutionen häufiger verurteilt als alle anderen Länder dieser Welt zusammen. Auch die Generalversammlung der Uno beschäftigt sich in ihren Diskussionen weitaus öfter mit der einzigen Demokratie im Nahen Osten als etwa mit Syrien, Nordkorea oder dem Iran. Die UN-Frauenrechtskommission hat Israel unlängst als einziges Land für die Verletzung von Frauenrechten kritisiert, für die Weltgesundheitsorganisation (WHO) schädigt weltweit niemand die Gesundheit von Menschen und die Umwelt so stark wie der jüdische Staat. Und das sind nur einige wenige Beispiele von vielen. Ein Beschluss wie der UN-Teilungsplan von 1947, der die Grundlage für die Proklamation des Staates Israel bildete, wäre heute schlicht undenkbar.
+Wie kommt es, dass sich der jüdische Staat derart im Visier der Vereinten Nationen und ihrer Untereinrichtungen befindet? Liegt das tatsächlich an Israel selbst – oder gibt es dafür womöglich ganz andere Gründe? Wie ist die Uno heute überhaupt aufgestellt, und worin unterscheidet sie sich von früheren Jahren? Welches Verständnis von den Menschenrechten herrscht bei ihren Mitgliedern vor?
+
+Die Autoren:
+Alex Feuerherdt ist freier Publizist und lebt in Köln. Er schreibt für verschiedene Print- und Online-Medien zu den Themen Israel, Nahost, Antisemitismus und Fußball, unter anderem für die Jüdische Allgemeine, n-tv.de, die Jungle World und Mena Watch in Wien. Außerdem ist er Betreiber des Blogs Lizas Welt.
+
+Florian Markl ist Politikwissenschaftler und wissenschaftlicher Leiter von Mena Watch, einem unabhängigen Nahost-Thinktank in Wien. Publikationen u.a. zu den Themen Antisemitismus, Terrorismus und dem Nahen Osten.
