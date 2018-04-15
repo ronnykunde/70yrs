@@ -4,12 +4,11 @@ layout: default
 <article class="post">
   <a class="" href="{{ site.baseurl }}/">[Zurück]</a>
   <br><br>
-  <span class="post-day"></span>
-  <span class="post-month">{{ page.day}}{{ page.month}}</span>
+  <span class="post-day">{{ page.day}}</span>
+  <span class="post-month">{{ page.month}}</span>
   <h1 class="post-title">{{ page.title }}</h1>
   <h3 class="post-title">{{ page.subtitle }}</h3>
-  <h5>{{ page.eventtype }} {{ page.speaker }}</h5>
-  <h5>{{ page.time }} {{ page.locationname }}</h5>
+  <span class="post-speaker">{{ page.speaker}}</span>
 
   <div class="post-content">
 
@@ -24,9 +23,6 @@ layout: default
       {% endif %}
     </div>
 
-    {{ page.time }} {{ page.locationname }}, {{ page.locationadress }}
-    <br>
-    <!-- <a class="" href="{{ page.facebookevent }}">[Veranstaltung bei Facebook]</a>-->
   </div>
 
 </article>

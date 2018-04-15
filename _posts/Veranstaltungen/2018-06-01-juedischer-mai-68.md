@@ -4,16 +4,15 @@ title:  "Jüdischer Mai '68."
 subtitle: "Linker Aktivismus und Antisemitismus im Nachkriegsfrankreich"
 crawlertitle: "Jüdischer Mai '68."
 summary: "Jüdischer Mai '68."
-speaker: "von Sebastian Voigt"
+speaker: "Sebastian Voigt"
 time: "19:00"
 day: "01."
 month: "Juni"
-locationname: "in der Uni Leipzig"
-locationadress: "der Hörsaal wird noch bekannt gegeben"
+locationname: "Uni Leipzig"
+locationadress: "t.b.a."
 eventtype: "Vortrag"
 categories: Veranstaltungen
 tags: 'veranstaltungen'
-facebookevent: "https://www.facebook.com/events/161407738017206/"
 ---
 
 Anlässlich des 50.-jährigen Jubiläums sind die Ereignisse des Jahres 1968 medial wieder präsent. Von rechtskonservativer Seite werden die früheren Aktivisten immer wieder für die heutige Situation verantwortlich gemacht. So sprach der AfD-Parteivorsitzende Jörg Meuthen vom „versifften links-grünen 68er-Deutschland“, das es zu ändern gelte.

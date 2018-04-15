@@ -4,16 +4,15 @@ title:  "»Vereinte Nationen gegen Israel«."
 subtitle: "Wie die UNO den jüdischen Staat delegitimiert."
 crawlertitle: "»Vereinte Nationen gegen Israel«."
 summary: "»Vereinte Nationen gegen Israel«."
-speaker: "von Florian Markl & Alex Feuerherdt"
+speaker: "Florian Markl & Alex Feuerherdt"
 time: "19:00"
 day: "11."
 month: "Juni"
-locationname: "im Conne Island"
+locationname: "Conne Island"
 locationadress: "Koburger Str. 3, Leipzig"
 eventtype: "Buchvorstellung"
 categories: Veranstaltungen
 tags: 'veranstaltungen'
-facebookevent: "https://www.facebook.com/events/996981107117805/"
 ---
 
 Kein anderes Land steht bei den Vereinten Nationen derart am Pranger wie Israel. Die Unesco und der UN-Menschenrechtsrat beispielsweise haben den jüdischen Staat in ihren Resolutionen häufiger verurteilt als alle anderen Länder dieser Welt zusammen. Auch die Generalversammlung der Uno beschäftigt sich in ihren Diskussionen weitaus öfter mit der einzigen Demokratie im Nahen Osten als etwa mit Syrien, Nordkorea oder dem Iran. Die UN-Frauenrechtskommission hat Israel unlängst als einziges Land für die Verletzung von Frauenrechten kritisiert, für die Weltgesundheitsorganisation (WHO) schädigt weltweit niemand die Gesundheit von Menschen und die Umwelt so stark wie der jüdische Staat. Und das sind nur einige wenige Beispiele von vielen. Ein Beschluss wie der UN-Teilungsplan von 1947, der die Grundlage für die Proklamation des Staates Israel bildete, wäre heute schlicht undenkbar.
