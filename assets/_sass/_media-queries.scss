@@ -128,7 +128,7 @@
     width: $aside-width;
     height: 100%;
     position: fixed;
-    right: 0;
+    left: 0;
     top: 0;
     background-attachment: scroll;
     z-index: 200;
@@ -142,11 +142,7 @@
   .content-wrapper {
     width: $content-wrapper-width;
     max-width: $article-max-width;
-    text-align: right;
-
-    position: absolute;
-    right: $post-margin-left;
-    display: block;
+    margin-left: $post-margin-left;
   }
 
   main {
