@@ -4,15 +4,16 @@ title:  "Kritische Theorie des Antizionismus."
 subtitle: "Zur Persistenz des Israelhasses"
 crawlertitle: "Kritische Theorie des Antizionismus."
 summary: "Kritische Theorie des Antizionismus."
-speaker: "Stephan Grigat"
+speaker: "von Stephan Grigat"
 time: "19:00"
 day: "08."
 month: "Mai"
-locationname: "Conne Island"
+locationname: "im Conne Island"
 locationadress: "Koburger Str. 3, Leipzig"
 eventtype: "Vortrag"
 categories: Veranstaltungen
 tags: 'veranstaltungen'
+facebookevent: "https://www.facebook.com/events/212058109555187/"
 ---
 
 Am Beginn des 21. Jahrhunderts ist die antizionistische Ideologie zu neuem Leben erwacht und weist weit über den Kreis linker Kleingruppen hinaus. In den Attacken auf Israel tritt der Antisemitismus als eine spezifische Form des Judenhasses nach Auschwitz auf, der sich gegen den kollektiven Juden, den jüdischen Staat, richtet. Der Vortrag soll zum einen Grundzüge einer Kritischen Theorie des Zionismus einerseits und des Israelhasses andererseits skizzieren und die Modifikationen in den diversen Ausprägungen des Antizionismus beleuchten. Zum anderen soll verdeutlicht werden, vor welchen Herausforderungen Israel durch die veränderten Realitäten des Nahen Ostens und durch die aktuellen Erscheinungsformen des Antizionismus steht.

@@ -1,18 +1,19 @@
 ---
 layout: post
-title:  "Israelische Demokratie und Nahostkonflikt"
+title:  "Workshop - Israelische Demokratie und Nahostkonflikt"
 subtitle: ""
-crawlertitle: "Israelische Demokratie und Nahostkonflikt"
-summary: "Israelische Demokratie und Nahostkonflikt"
-speaker: "Mideast Freedom Forum Berlin"
+crawlertitle: "Workshop - Israelische Demokratie und Nahostkonflikt"
+summary: "Workshop - Israelische Demokratie und Nahostkonflikt"
+speaker: "des Mideast Freedom Forum Berlin"
 time: "9:30 - 18:00"
 day: "18."
 month: "Mai"
-locationname: "Uni Leipzig"
+locationname: "in der Uni Leipzig"
 locationadress: "Ziegenledersaal"
 eventtype: "Workshop"
 categories: Veranstaltungen
 tags: 'veranstaltungen'
+facebookevent: "https://www.facebook.com/events/362365390836725/"
 ---
 
 Wo anfangen gegen Antisemitismus?
