@@ -35,7 +35,9 @@
     display: block;
   }
 
-  .sidebar { display: block; }
+  .sidebar { 
+    display: block;
+  }
 
   .alingleft, .alignright, .aligncenter {
     display: inline-block;
@@ -89,11 +91,18 @@
   }
 }
 
-
-
 @media screen and (max-width: $break-point) {
   .nav-main a {
     font-size: 14px;
+  }
+}
+
+
+@media screen and (max-width: $break-point) {
+  .sidebar { 
+    display: block;
+    background-size: auto 100%;
+    background-color: #e6e6e6;
   }
 }
 
@@ -172,3 +181,4 @@
     padding: 2em;
   }
 }
+
