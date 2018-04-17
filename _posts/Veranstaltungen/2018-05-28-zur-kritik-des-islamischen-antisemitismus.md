@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Zur Kritik des islamischen Antisemitimus und seiner Bagatellisierung"
+title:  "Zur Kritik des islamischen Antisemitismus und seiner Bagatellisierung"
 subtitle: ""
-crawlertitle: "Zur Kritik des islamischen Antisemitimus und seiner Bagatellisierung"
-summary: "Zur Kritik des islamischen Antisemitimus und seiner Bagatellisierung"
+crawlertitle: "Zur Kritik des islamischen Antisemitismus und seiner Bagatellisierung"
+summary: "Zur Kritik des islamischen Antisemitismus und seiner Bagatellisierung"
 speaker: "von Thomas Maul"
 time: "19:00"
 day: "28."

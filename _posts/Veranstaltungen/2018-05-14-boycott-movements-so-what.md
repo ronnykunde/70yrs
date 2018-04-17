@@ -18,15 +18,23 @@ facebookevent: "https://www.facebook.com/events/235884743654603/"
 
 VORTRAG IN ENGLISCHER SPRACHE, MIT DEUTSCHER ÜBERSETZUNG
 
-I. Highlights in the development of Israel's economy:
+Boycott movements — so what!?
+An israeli perspective on the economics of development.
+
+A lecture by Ezra Sadan, Hebrew University of Jerusalem | M.Sc. (Agr.), M.A. (Soc.Sci.), Ph.D. (Economics)
+
+I.) Highlights in the development of Israel's economy:
 - A population and GDP growing 650% and 4500% respectively;
 - A producer and exporter of farm and consumer goods carrying a chronic burden of foreign debt, turned into a developer and exporter of hi tech producer goods and services, accumulating international surpluses;
-- A currency running hyper inflation turned into hard currency in demand.
+- A currency running hyperinflation turned into hard currency in demand.
 
-II. Israel's present day strength and weaknesses, as visualized in the recent OECD Report.
+II.) Israel's present day strength and weaknesses, as visualized in the recent OECD Report.
+
+The lecture will be held in english language, a translation into german will be provided. — Der Vortrag wird auf Englisch gehalten, wir werden eine Übersetzung in die deutsche Sprache anbieten.
+
 
 Zur Person: Ezra Sadan
-Born in 1933, in Jerusalem.
+Born in 1933, in Jerusalem. Professor Emeritus Ezra Sadan is a former director general of the Israeli Ministry of Finance. 
 
 Academic Experience:
 Professor Emeritus of the Hebrew University of Jerusalem (1963 -)
@@ -40,5 +48,5 @@ Director General of the Ministry of Agriculture (1992).
 Director of the VOLCANI Agricultural Research Institute (1992 -1994).
 Director on the Boards of TAHAL Consulting Engineers, Israel’s Electric Company, Israel Aircraft Industries, El Al Israel Airlines, Israel’s Atomic Energy Commission and an Alternate Governor of the IMF (1975 -1985)
 Chairman, a Commission appointed by the Director General of Israel’s Ministry of Defense and the Chief of Staff to inquire into the feasibility and procedure of outsourcing ("make of buy") in the IDF (1994 -5).
-Chairman a Commission appoint ed by the Minist er of Transportat ion to inquire into the reform of the public transit organiza tion (2007).
-Published three monographs and a book and num erous articles regarding the economy of Israel and the Middle East and the economics of development.
+Chairman of a Commission appointed by the Minister of Transportation to inquire into the reform of the public transit organization (2007).
+Published three monographs and a book and numerous articles regarding the economy of Israel and the Middle East and the economics of development.
